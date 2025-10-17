@@ -15,3 +15,5 @@
 8. Nexus Docker refer [Nexus Docker Tutorial] (https://gcore.com/learning/publishing-artifacts-to-nexus-using-jenkins-pipelines/)
 9. Jenkins: Publish Maven Artifacts to Nexus OSS Using Pipelines or Maven Jobs (https://dzone.com/articles/jenkins-publish-maven-artifacts-to-nexus-oss-using)
 
+   Test webhook trigger
+
